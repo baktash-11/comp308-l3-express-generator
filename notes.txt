@@ -1,0 +1,10 @@
+1- install express generator
+    npm i express-generator
+2- create a porject with express-generator
+    express -e 
+    rename the www file to server or index.js
+    move it to root folder
+
+3- install dependencies and dev dependencies
+    npm install
+    npm i @types/express @types/node  @types/cookie-parser @types/body-parser @types/morgan --save-dev    
